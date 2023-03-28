@@ -1,6 +1,6 @@
-# Team-Project---Politechnika-Wroclawska
+# Team Project Politechnika Wroclawska
 
-##Team
+## Team
 Projekt Manager:
 Patryk Zawieja 
 
