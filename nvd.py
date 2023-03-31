@@ -143,6 +143,8 @@ def main():
 	objc[0].score3
 	objc[0].severity2
 	objc[0].severity3
+	
+	objc[0].raw - surowe dane podatności w formacie json
 
 """
 
